@@ -1,0 +1,145 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: arm64-v8a",
+    "file_": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/marufahmed/Work/codes/ncnn_paddleocr/app/.cxx/Debug/6s1v3n17/arm64-v8a/android_gradle_build.json due to:",
+    "file_": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/marufahmed/Work/codes/ncnn_paddleocr/app/.cxx/Debug/6s1v3n17/arm64-v8a\u0027",
+    "file_": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/marufahmed/Work/codes/ncnn_paddleocr/app/.cxx/Debug/6s1v3n17/arm64-v8a\u0027",
+    "file_": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /Users/marufahmed/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  -H/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/Users/marufahmed/Library/Android/sdk/ndk/28.0.12433566 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/marufahmed/Library/Android/sdk/ndk/28.0.12433566 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/marufahmed/Library/Android/sdk/ndk/28.0.12433566/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/marufahmed/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/marufahmed/Work/codes/ncnn_paddleocr/app/build/intermediates/cxx/Debug/6s1v3n17/obj/arm64-v8a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/marufahmed/Work/codes/ncnn_paddleocr/app/build/intermediates/cxx/Debug/6s1v3n17/obj/arm64-v8a \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/Users/marufahmed/Work/codes/ncnn_paddleocr/app/.cxx/Debug/6s1v3n17/arm64-v8a \\\n  -GNinja\n",
+    "file_": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/marufahmed/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  -H/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/Users/marufahmed/Library/Android/sdk/ndk/28.0.12433566 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/marufahmed/Library/Android/sdk/ndk/28.0.12433566 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/marufahmed/Library/Android/sdk/ndk/28.0.12433566/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/marufahmed/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/marufahmed/Work/codes/ncnn_paddleocr/app/build/intermediates/cxx/Debug/6s1v3n17/obj/arm64-v8a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/marufahmed/Work/codes/ncnn_paddleocr/app/build/intermediates/cxx/Debug/6s1v3n17/obj/arm64-v8a \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/Users/marufahmed/Work/codes/ncnn_paddleocr/app/.cxx/Debug/6s1v3n17/arm64-v8a \\\n  -GNinja\n",
+    "file_": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/marufahmed/Work/codes/ncnn_paddleocr/app/.cxx/Debug/6s1v3n17/arm64-v8a/compile_commands.json.bin normally",
+    "file_": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked /Users/marufahmed/Work/codes/ncnn_paddleocr/app/.cxx/Debug/6s1v3n17/arm64-v8a/compile_commands.json to /Users/marufahmed/Work/codes/ncnn_paddleocr/app/.cxx/tools/debug/arm64-v8a/compile_commands.json",
+    "file_": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

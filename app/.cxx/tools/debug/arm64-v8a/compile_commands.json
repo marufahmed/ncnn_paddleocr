@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/.cxx/Debug/6s1v3n17/arm64-v8a",
+  "command": "/Users/marufahmed/Library/Android/sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/Users/marufahmed/Library/Android/sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dpaddleocrncnn_EXPORTS -isystem /Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/ncnn-20240820-android-vulkan/arm64-v8a/include/ncnn -isystem /Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/opencv-mobile-4.10.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles/paddleocrncnn.dir/paddleocr_ncnn.cpp.o -c /Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/paddleocr_ncnn.cpp",
+  "file": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/paddleocr_ncnn.cpp"
+},
+{
+  "directory": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/.cxx/Debug/6s1v3n17/arm64-v8a",
+  "command": "/Users/marufahmed/Library/Android/sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/Users/marufahmed/Library/Android/sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dpaddleocrncnn_EXPORTS -isystem /Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/ncnn-20240820-android-vulkan/arm64-v8a/include/ncnn -isystem /Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/opencv-mobile-4.10.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles/paddleocrncnn.dir/common.cpp.o -c /Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/common.cpp",
+  "file": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/common.cpp"
+},
+{
+  "directory": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/.cxx/Debug/6s1v3n17/arm64-v8a",
+  "command": "/Users/marufahmed/Library/Android/sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android24 --sysroot=/Users/marufahmed/Library/Android/sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dpaddleocrncnn_EXPORTS -isystem /Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/ncnn-20240820-android-vulkan/arm64-v8a/include/ncnn -isystem /Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/opencv-mobile-4.10.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles/paddleocrncnn.dir/clipper.cpp.o -c /Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/clipper.cpp",
+  "file": "/Users/marufahmed/Work/codes/ncnn_paddleocr/app/src/main/jni/clipper.cpp"
+}
+]

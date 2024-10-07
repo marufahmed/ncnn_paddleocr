@@ -1,0 +1,1 @@
+/Users/marufahmed/Work/codes/ncnn_paddleocr/app/build/intermediates/cxx/Debug/6s1v3n17/obj/arm64-v8a
