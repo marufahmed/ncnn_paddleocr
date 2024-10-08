@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.tencent.paddleocrncnn.app-debug-23:/xml_file_paths.xml.flat",
+        "source": "com.tencent.paddleocrncnn.app-main-25:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.tencent.paddleocrncnn.app-debug-23:/layout_main.xml.flat",
+        "source": "com.tencent.paddleocrncnn.app-main-25:/layout/main.xml"
+    }
+]

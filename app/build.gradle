@@ -1,11 +1,14 @@
-apply plugin: 'com.android.application'
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+}
 
 android {
-    namespace 'com.ncnn_paddleocr.skillstudio'
+    namespace 'com.tencent.paddleocrncnn'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.ncnn_paddleocr.skillstudio"
+        applicationId "com.tencent.paddleocrncnn"
         minSdk 24
         targetSdk 33
         versionCode 1
@@ -30,10 +33,29 @@ android {
         }
     }
 
-    ndkVersion "28.0.12433566" // Changed to a more stable version
+    ndkVersion "28.0.12433566"
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+}
+
+configurations.all {
+    resolutionStrategy {
+        force "org.jetbrains.kotlin:kotlin-stdlib:1.8.22"
+        force "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.22"
+        force "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22"
+    }
 }
 
 dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:1.8.22"
+    implementation 'androidx.core:core-ktx:1.9.0'
     implementation 'androidx.appcompat:appcompat:1.6.1'
-    implementation 'androidx.core:core-ktx:1.10.1'
+    implementation 'androidx.activity:activity:1.7.2'
 }

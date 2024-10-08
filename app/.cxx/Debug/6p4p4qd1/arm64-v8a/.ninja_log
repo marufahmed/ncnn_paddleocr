@@ -1,0 +1,6 @@
+# ninja log v5
+1	982	1728325863121434927	CMakeFiles/paddleocrncnn.dir/common.cpp.o	8ff75d1d404d4e69
+1	1003	1728325863142940253	CMakeFiles/paddleocrncnn.dir/paddleocr_ncnn.cpp.o	601dfb1a020be539
+1	1121	1728325863260355074	CMakeFiles/paddleocrncnn.dir/clipper.cpp.o	fdeeaa596ea3cfba
+1121	1349	1728325863464374067	/Users/marufahmed/Work/codes/ncnn_paddleocr/app/build/intermediates/cxx/Debug/6p4p4qd1/obj/arm64-v8a/libpaddleocrncnn.so	a60b715c59125012
+3	835	1728326364620483296	/Users/marufahmed/Work/codes/ncnn_paddleocr/app/build/intermediates/cxx/Debug/6p4p4qd1/obj/arm64-v8a/libpaddleocrncnn.so	a60b715c59125012

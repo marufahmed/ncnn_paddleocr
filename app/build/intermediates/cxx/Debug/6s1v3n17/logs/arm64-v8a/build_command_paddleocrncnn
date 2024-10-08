@@ -1,0 +1,4 @@
+/Users/marufahmed/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/marufahmed/Work/codes/ncnn_paddleocr/app/.cxx/Debug/6s1v3n17/arm64-v8a \
+  paddleocrncnn

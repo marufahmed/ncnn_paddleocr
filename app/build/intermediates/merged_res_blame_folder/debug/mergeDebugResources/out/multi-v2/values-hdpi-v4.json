@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tencent.paddleocrncnn.app-mergeDebugResources-21:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/marufahmed/.gradle/caches/8.9/transforms/08e347edd901175e7aa73108d4c2f883/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
